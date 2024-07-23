@@ -1,0 +1,15 @@
+D:\Swinburne\OOP\2.3P\2.3P\bin\Debug\net6.0\Swin_Adventure.exe
+D:\Swinburne\OOP\2.3P\2.3P\bin\Debug\net6.0\Swin_Adventure.deps.json
+D:\Swinburne\OOP\2.3P\2.3P\bin\Debug\net6.0\Swin_Adventure.runtimeconfig.json
+D:\Swinburne\OOP\2.3P\2.3P\bin\Debug\net6.0\Swin_Adventure.dll
+D:\Swinburne\OOP\2.3P\2.3P\bin\Debug\net6.0\Swin_Adventure.pdb
+D:\Swinburne\OOP\2.3P\2.3P\obj\Debug\net6.0\Swin_Adventure.csproj.AssemblyReference.cache
+D:\Swinburne\OOP\2.3P\2.3P\obj\Debug\net6.0\Swin_Adventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swinburne\OOP\2.3P\2.3P\obj\Debug\net6.0\Swin_Adventure.AssemblyInfoInputs.cache
+D:\Swinburne\OOP\2.3P\2.3P\obj\Debug\net6.0\Swin_Adventure.AssemblyInfo.cs
+D:\Swinburne\OOP\2.3P\2.3P\obj\Debug\net6.0\Swin_Adventure.csproj.CoreCompileInputs.cache
+D:\Swinburne\OOP\2.3P\2.3P\obj\Debug\net6.0\Swin_Adventure.dll
+D:\Swinburne\OOP\2.3P\2.3P\obj\Debug\net6.0\refint\Swin_Adventure.dll
+D:\Swinburne\OOP\2.3P\2.3P\obj\Debug\net6.0\Swin_Adventure.pdb
+D:\Swinburne\OOP\2.3P\2.3P\obj\Debug\net6.0\Swin_Adventure.genruntimeconfig.cache
+D:\Swinburne\OOP\2.3P\2.3P\obj\Debug\net6.0\ref\Swin_Adventure.dll
